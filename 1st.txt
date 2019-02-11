@@ -1,0 +1,10 @@
+It is ubuntustudio.org/tour/audio page. Here we atfirst see the home page where we see the history of the ununtu studio with its released and update details.
+ In the About page we see that here what is ubuntu,what they do,their goal, their contribution etc.
+ feature tour is a linux based operating system which is free and it is released in every 6 months and the long term version is released only in every 2 years.
+here we have a download option by which we can download several version by DVD and USB stick and we can see the installation rule.
+ 
+
+
+
+
+we see the kindle ebook reader which is the touch screen display, easy on the eyes , weeks long battery life,lighter than a paperback, reads like the printed page.

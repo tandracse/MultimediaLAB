@@ -1,20 +1,26 @@
 Virtual machine>> Ubuntustudio
 
-LADITOOLS:  
+
+1.AUDACITY :
+ it is an audio tools which is used to record different voice music or sound.
+ 
+ 2.LMMS:
+ here we find the documentation, tutorials, guoide , resources and etc.
+ 
+3. Petri-Foo:
+petri-foo is a fork of the specimen project.
+
+4.Hydrogen:
+the Hydrogen website and forum was offline for the last three months. The problem was caused by security issue with our old hosting platform, which has been taken offline afterwards . The current website is now hosted via Github Pages, minimizing the needed effort for administration and maintenance of the page. Unfortunately, there are no plans at the moment to bring back the forum.
+It currently stands to discussion if there will be an official forum again or which alternatives might be available to us.
+
+
+5.LADITOOLS:  
 It is  a  collection  of  tools aiming to achieve the goals of the LADI project to
        improve desktop integration and user workflow of GNU/Linux audio system based on JACK  and
        LASH.  The tools take advantage of the D-Bus interfaces recently added to JACK and LASH to
        ease the configuration and use of those two great pieces of software.
 
-AUDACITY :
- it is an audio tools which is used to record different voice music or sound.
- 
- LMMS:
- here we find the documentation, tutorials, guoide , resources and etc.
- 
- Petri-Foo:
-petri-foo is a fork of the specimen project.
 
-Hydrogen:
-the Hydrogen website and forum was offline for the last three months. The problem was caused by security issue with our old hosting platform, which has been taken offline afterwards . The current website is now hosted via Github Pages, minimizing the needed effort for administration and maintenance of the page. Unfortunately, there are no plans at the moment to bring back the forum.
-It currently stands to discussion if there will be an official forum again or which alternatives might be available to us.
+6.patchage :
+Jack and Alsa front end audio system.

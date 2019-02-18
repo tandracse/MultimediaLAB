@@ -1,5 +1,13 @@
+Virtual machine>> Ubuntustudio
+
 LADITOOLS:  
 It is  a  collection  of  tools aiming to achieve the goals of the LADI project to
        improve desktop integration and user workflow of GNU/Linux audio system based on JACK  and
        LASH.  The tools take advantage of the D-Bus interfaces recently added to JACK and LASH to
        ease the configuration and use of those two great pieces of software.
+
+AUDACITY :
+ it is an audio tools which is used to record different voice music or sound.
+ 
+ 
+ 
